@@ -1,0 +1,5 @@
+communicator:
+    debtsUri: https://my-json-server.typicode.com/druska/trueaccord-mock-payments-api/debts
+    paymentsUri: https://my-json-server.typicode.com/druska/trueaccord-mock-payments-api/payments
+    paymentPlansUri: https://my-json-server.typicode.com/druska/trueaccord-mock-payments-api/payment_plans
+
